@@ -1,6 +1,7 @@
 ﻿#include <QDialogButtonBox>
 #include <QListWidget>
 #include <QVBoxLayout>
+#include <QWidget>
 
 #include "FlowChartSymbolPicker.h"
 
