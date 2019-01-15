@@ -2,4 +2,7 @@ TEMPLATE = subdirs
 
 
 SUBDIRS += \
-    ListWidget
+    ListWidget \
+    EasyExample \
+    NormalExample \
+    HearderModel
