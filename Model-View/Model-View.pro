@@ -9,5 +9,8 @@ SUBDIRS += \
     ModelView \
     DataRole \
     MyStringListModel \
-    TableWidget
+    TableWidget \
+    PredefineModel \
+    DirModel \
+    AbstractTableModel
 
