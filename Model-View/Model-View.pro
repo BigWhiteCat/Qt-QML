@@ -5,4 +5,9 @@ SUBDIRS += \
     ListWidget \
     EasyExample \
     NormalExample \
-    HearderModel
+    HearderModel \
+    ModelView \
+    DataRole \
+    MyStringListModel \
+    TableWidget
+
