@@ -12,5 +12,6 @@ SUBDIRS += \
     TableWidget \
     PredefineModel \
     DirModel \
-    AbstractTableModel
+    AbstractTableModel \
+    TableModel
 
