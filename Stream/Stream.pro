@@ -6,4 +6,6 @@ SUBDIRS += \
     DataStreamWrite \
     DataStreamRead \
     OverloadOperator \
-    TidyFile
+    TidyFile \
+    DirAndInfo \
+    Process
