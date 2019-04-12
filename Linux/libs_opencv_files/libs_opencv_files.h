@@ -5,7 +5,7 @@
 
 class libs_opencv_files {
  public:
-  libs_opencv_files(const QString &pathName = "/opt/opencv4.0/install/lib");
+  libs_opencv_files(const QString &pathName = "/opt/opencv4.0/install/lib64");
   virtual ~libs_opencv_files() {}
   virtual void GetLibs() const;
 

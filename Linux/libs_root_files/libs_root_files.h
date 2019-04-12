@@ -5,7 +5,7 @@
 
 class libs_root_files {
  public:
-  libs_root_files(const QString &pathName = "/opt/root/install/lib");
+  libs_root_files(const QString &pathName = "/opt/root6.14/install/lib");
   virtual ~libs_root_files() {}
   virtual void GetLibs() const;
 

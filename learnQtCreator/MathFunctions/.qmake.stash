@@ -1,7 +1,7 @@
 QMAKE_CXX.INCDIRS = \
-    /usr/include/x86_64-linux-gnu \
+    /opt/eigen/install/include \
     /opt/root6.14/install/include \
-    /opt/opencv4.0/install/include \
+    /opt/opencv4.0/install/include/opencv4 \
     /opt/gcc8.2/install/include \
     /opt/gcc8.2/install/include/c++/8.2.0 \
     . \
@@ -14,9 +14,8 @@ QMAKE_CXX.INCDIRS = \
 QMAKE_CXX.LIBDIRS = \
     /opt/gcc8.2/install/lib/gcc/x86_64-pc-linux-gnu/8.2.0 \
     /opt/gcc8.2/install/lib64 \
-    /lib/x86_64-linux-gnu \
     /lib64 \
-    /usr/lib/x86_64-linux-gnu \
+    /usr/lib64 \
     . \
     /opt/gcc8.2/install/lib \
     /lib \
